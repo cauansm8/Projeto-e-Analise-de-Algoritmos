@@ -1,7 +1,7 @@
 import csv
 import numpy as np
 
-arquivo = "Algorithms.csv"
+arquivo = "Trabalho 1\Algorithms.csv"
 
 def adicionarInformacoes(nome, tamanho, tempo, tipo):
     with open(arquivo, "a", newline="") as arq:

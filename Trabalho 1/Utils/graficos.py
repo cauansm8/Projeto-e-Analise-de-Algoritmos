@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def lerArquivo():
-    return pd.read_csv("Algorithms.csv")
+    return pd.read_csv("Trabalho 1\Algorithms.csv")
 
 def gerarDataFrame_tipoEspecifico(tipo):
     df = lerArquivo()
