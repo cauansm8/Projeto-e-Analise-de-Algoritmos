@@ -1,4 +1,4 @@
-# Projeto e Análise de Algoritmos
+Projeto e Análise de Algoritmos
 
 Professor: Danilo Medeiros Eller
 
